@@ -1,7 +1,0 @@
-terraform.tfstate.backup
-terraform.tfstate
-variables.tf
-.terraform
-main.tf
-.terraform.lock.hcl
-terraform-project-315410-f682d6c6c626.json

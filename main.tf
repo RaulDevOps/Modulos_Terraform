@@ -12,13 +12,13 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("terraform-project-315410-f682d6c6c626.json")
+  credentials = file("terraform-project-315410-4318c5c39ff8.json")
   project = "terraform-project-315410"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
 provider "google-beta" {
-  credentials = file("terraform-project-315410-f682d6c6c626.json")
+  credentials = file("terraform-project-315410-4318c5c39ff8.json")
   project = "terraform-project-315410"
   region  = "us-central1"
   zone    = "us-central1-c"

@@ -1,0 +1,6 @@
+terraform.tfstate.backup
+terraform.tfstate
+main.tf
+.terraform.lock.hcl
+terraform-project-315410-4318c5c39ff8.json
+.terraform/*
